@@ -1,6 +1,3 @@
-去掉讨厌的知乎登录框
-
-```js
 // ==UserScript==
 // @name         New Userscript
 // @namespace    http://tampermonkey.net/
@@ -31,4 +28,3 @@
     }, 100);
   }
 })();
-```

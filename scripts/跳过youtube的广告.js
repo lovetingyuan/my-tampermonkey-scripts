@@ -1,6 +1,3 @@
-跳过 youtube 的广告
-
-```js
 // ==UserScript==
 // @name         New Userscript
 // @namespace    http://tampermonkey.net/
@@ -22,4 +19,3 @@
     }
   }, 500);
 })();
-```

@@ -1,6 +1,3 @@
-leetcode 格式化代码功能
-
-```js
 // ==UserScript==
 // @name         New Userscript
 // @namespace    http://tampermonkey.net/
@@ -53,6 +50,4 @@ leetcode 格式化代码功能
       editorContainer.parentElement.appendChild(formatBtn);
     }
   }, 1000);
-  // Your code here...
 })();
-```

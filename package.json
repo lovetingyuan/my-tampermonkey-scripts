@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "description": "some of my [tampermonkey](https://github.com/Tampermonkey/tampermonkey) scripts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovetingyuan/my-tampermonkey-scripts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lovetingyuan/my-tampermonkey-scripts/issues"
+  },
+  "homepage": "https://github.com/lovetingyuan/my-tampermonkey-scripts#readme",
+  "eslintConfig": {
+    "root": true,
+    "extends": [
+      "eslint:recommended"
+    ],
+    "env": {
+      "browser": true,
+      "node": false,
+      "commonjs": false
+    },
+    "parserOptions": {
+      "ecmaVersion": "latest"
+    }
+  },
+  "devDependencies": {
+    "eslint": "^8.14.0"
+  }
+}
