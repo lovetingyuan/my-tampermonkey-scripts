@@ -2,4 +2,4 @@
 
 some of my [tampermonkey](https://github.com/Tampermonkey/tampermonkey) scripts
 
-我的一些油猴脚本
+我的一些[油猴脚本](./tree/main/scripts)
